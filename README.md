@@ -10,10 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Flutter Challenge</h3>
-  <p align="center">
-    <a href="https://docs.google.com/document/d/1sry7YMJRKl1wby7rm6DXilRfrQQW4674AKcDq_8LE-g/edit?usp=sharing"><strong>Explore the problem set »</strong></a>
-    <br />
+  <h3 align="center">Flutter PROKIT customization</h3>
   </p>
 </p>
 
@@ -49,11 +46,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project | Introduction
-This project is a flutter UI challange. . 
+This project is a flutter PROKIT customization. 
 
 ### Outputs
 <ol>
-  <li><a href="https://github.com/Bina-man/flutter_prokit_customization/blob/main/output/prokit.mp4?raw=true"> Click for APK file here</a></<li>
+  <li><a href="https://github.com/Bina-man/flutter_prokit_customization/blob/main/output/prokit.mp4?raw=true"> Click for Video</a></<li>
+  <li><a href="https://github.com/Bina-man/flutter_prokit_customization/blob/main/output/prokit-flutter-25-app-ui-kit.apk?raw=true"> Click for APK file here</a></<li>
 </ol>
 
 ### Built With
@@ -125,20 +123,20 @@ Project Link: [https://github.com/Bina-man/flutter_prokit_customization.git](htt
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bina-man/flutter_equb.svg?style=for-the-badge
-[contributors-url]: https://github.com/Bina-man/flutter_equb/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/Bina-man/flutter_prokit_customization.svg?style=for-the-badge
+[contributors-url]: https://github.com/Bina-man/flutter_prokit_customization/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/Bina-man/flutter_equb.svg?style=for-the-badge
-[forks-url]: https://github.com/Bina-man/flutter_equb/network/members
+[forks-shield]: https://img.shields.io/github/forks/Bina-man/flutter_prokit_customization.svg?style=for-the-badge
+[forks-url]: https://github.com/Bina-man/flutter_prokit_customization/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/Bina-man/flutter_equb.svg?style=for-the-badge
-[stars-url]: https://github.com/Bina-man/readme/stargazers
+[stars-shield]: https://img.shields.io/github/stars/Bina-man/flutter_prokit_customization.svg?style=for-the-badge
+[stars-url]: https://github.com/Bina-man/flutter_prokit_customization/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/Bina-man/readme.svg?style=for-the-badge
-[issues-url]: https://github.com/Bina-man/flutter_equb/issues
+[issues-shield]: https://img.shields.io/github/issues/Bina-man/flutter_prokit_customization.svg?style=for-the-badge
+[issues-url]: https://github.com/Bina-man/flutter_prokit_customization/issues
 
-[license-shield]: https://img.shields.io/github/license/Bina-man/flutter_equb.svg?style=for-the-badge
-[license-url]: https://github.com/Bina-man/flutter_equb/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/Bina-man/flutter_prokit_customization.svg?style=for-the-badge
+[license-url]: https://github.com/Bina-man/flutter_prokit_customization/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bina-man
